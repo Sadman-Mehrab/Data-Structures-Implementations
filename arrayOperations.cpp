@@ -3,7 +3,7 @@ Basic Array Operations (03/06/22, Sadman Mehrab)
   -> create array objects with specified size
   -> insert operations for all positional cases
   -> delete operations for all positional cases
-  -> utility opertaions: print, count, search etc.
+  -> utility operations: print, count, search etc.
 */
 
 #include<iostream>
